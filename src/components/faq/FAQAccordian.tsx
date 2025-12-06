@@ -67,7 +67,7 @@ export const mockData: Record<
     {
       question: "Who is eligible to take part in the hackathon?",
       answer:
-        "NUS Fintech Summit 2025 is open to all tertiary students across the globe.",
+        "NUS Fintech Summit 2026 is open to all tertiary students across the globe.",
     },
     {
       question: "Are there any requirements for the hackathon team formation?",
