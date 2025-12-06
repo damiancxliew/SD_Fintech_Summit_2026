@@ -123,7 +123,7 @@ const Navbar: React.FC = () => {
           </Link>
 
           <Link 
-            href="https://forms.gle/HcVEtSDBVZikaqHY9"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSebdk8QY2Yud2X0QPlPVHq3soGeGMprGCNAceTLfevUz632dw/viewform"
             target="_blank"
             className="hidden lg:block text-white font-bold text-lg px-4 py-2 border border-white rounded-full hover:bg-white hover:text-nav-backround transition-colors duration-200"
             style={{ textShadow: "1px 1px 2px rgba(0, 0, 0, 0.3)" }}
@@ -307,7 +307,7 @@ const Navbar: React.FC = () => {
             </Link>
 
             <Link 
-              href="https://docs.google.com/forms/d/e/1FAIpQLSd39bxGCe-lOdfiNURKSpNqzjzzRg-yy-OI87hCOLHimiofSg/closedform"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSebdk8QY2Yud2X0QPlPVHq3soGeGMprGCNAceTLfevUz632dw/viewform?usp=header"
               className="text-white font-bold text-lg px-4 py-2 border border-white rounded-full hover:bg-white hover:text-nav-backround transition-colors duration-200 ml-2"
               style={{ textShadow: "1px 1px 2px rgba(0, 0, 0, 0.3)" }}
             >
