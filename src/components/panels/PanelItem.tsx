@@ -92,7 +92,7 @@ const PanelItem: React.FC<PanelItemProps> = ({
             <p className="text-gray-700 font-bold mb-2 sm:mb-0">Date: {date}</p>
             <p className="text-gray-700 font-bold">Time: {time}</p>
           </div>
-          <div>
+          <div className="ml-4">
             <p className="text-gray-700 font-bold">Venue: {venue}</p>
           </div>
           
